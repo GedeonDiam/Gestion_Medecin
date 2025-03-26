@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+ }
+ body{
+     background-color: black;
+     color: white;
+     width: 100%;
+     /* Ajout pour réinitialiser les marges par défaut du corps */
+     margin: 0;
+     padding: 0;
+     text-align: center;
+ }
+ h1{
+     text-align: center;
+ }
+ form{
+     width: 800px;
+     height: 310px;
+     margin: auto;
+     padding: 10px;
+     border-radius: 20px ;
+     background-color: rgb(38, 80, 80);
+     text-align: center;
+ }
+ input{
+     width: 95%;
+     padding: 10px;
+     margin: 10px;
+     border: 2px solid red;
+     border-radius: 10px;
+ }
+ div{
+    background-color:white;
+    color: black;
+    width: 15%;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+
+ }
+ 

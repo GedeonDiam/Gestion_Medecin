@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+}
+table{
+    width: 50%;
+    margin: 10px auto;
+    border-collapse: collapse;
+
+}
+h1{
+    margin: 30px;
+    text-align: center;
+}
+th{
+    padding: 10px;
+    border: 1px solid black;
+    background-color: beige;
+    color: black;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+
+
+tr:hover{
+    background-color: blueviolet;
+    color: black;
+}
+img{
+    margin: auto;
+}
